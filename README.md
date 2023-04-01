@@ -23,7 +23,7 @@ Open-source **Django** project that showcases the **[API Generator](https://apps
 > 👉 **Step 1** - Download the code from the GH repository (using `GIT`)
 
 ```bash
-$ git clone https://github.com/app-generator/django-dynamic-services.git
+$ git clone https://github.com/tvaccari34/django-dynamic-services-adminLTE.git
 $ cd django-dynamic-services
 ```
 
@@ -52,7 +52,7 @@ $ docker exec <CONTAINER_ID> python manage.py createsuperuser
 > 👉 Download the code  
 
 ```bash
-$ git clone https://github.com/app-generator/django-dynamic-services.git
+$ git clone https://github.com/tvaccari34/django-dynamic-services-adminLTE.git
 $ cd django-dynamic-services
 ```
 
